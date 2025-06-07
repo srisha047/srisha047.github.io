@@ -27,6 +27,6 @@ latest_posts:
 ---
 
 Hello! I’m Srisha Bista, an entomologist and agricultural researcher with a focus on Integrated Pest Management (IPM) and sustainable agriculture. I am passionate about advancing sustainable farming through biological control, IPM strategies, and smart diagnostics to effectively manage pests and diseases.When I’m not engaged in research or fieldwork, I enjoy traveling to explore new cultures.
-Feel free to connect with me on LinkedIn https://www.linkedin.com/in/srisha-bista-2568a9194/ or contact me via email at srisha047@gmail.com.
+Feel free to connect with me on LinkedIn or contact me via email at srisha047@gmail.com.
 
 
