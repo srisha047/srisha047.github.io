@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Entomologist | Agricultural Researcher | IPM </a>. Nepal. srisha047@gmail.com
 
