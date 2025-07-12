@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Srisha Bista",
+    "label": "Entomology Researcher",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "srisha047@gmail.com",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://srisha047.github.io/al-folio/",
+    "summary": "A passionate researcher of Entomology. Working as a Project coordinator at SAAHO Nepal.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
