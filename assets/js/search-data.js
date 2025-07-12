@@ -422,10 +422,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-started-job-as-s-senior-project-manager-at-saaho-nepal-sparkles-smile",
+            },},{id: "news-started-job-as-s-senior-project-manager-at-saaho-nepal-sparkles-smile",
           title: 'Started Job as s Senior Project Manager at SAAHO NEPAL!!! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
