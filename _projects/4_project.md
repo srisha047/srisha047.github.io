@@ -1,80 +1,30 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Managing Helicoverpa armigera in Tomatoes
+description: Integrated approaches using trap crops and botanicals to control fruit borer infestation in tomato crops.
 img:
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project explored sustainable strategies for managing **Helicoverpa armigera**, a major pest affecting tomato production in Nepal. It focused on **trap cropping** and the use of **botanical insecticides** to reduce fruit damage and improve yield.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+### Objectives:
+- Evaluate the effectiveness of marigold (*Tagetes erecta*) as a trap crop.
+- Compare bio-pesticides and chemical insecticides in controlling fruit borers.
+- Promote eco-friendly pest control options for tomato growers.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### Field Setup:
+- Conducted in Rampur, Chitwan under randomized complete block design (RCBD).
+- Treatments included: 
+  - Marigold as border trap crop
+  - Neem extract spray
+  - Jholmal (fermented plant-based pesticide)
+  - Emamectin benzoate (synthetic benchmark)
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+### Key Findings:
+- **Marigold border rows** significantly reduced infestation on tomato fruits by attracting adult moths.
+- **Neem extract and Jholmal** performed well, showing lower pest incidence than the control group.
+- Yield was highest in plots combining **trap cropping and neem spray**, proving this combination both effective and sustainable.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+This research demonstrates the potential of **Integrated Pest Management (IPM)** strategies for **reducing pesticide reliance** and promoting safer food production systems.

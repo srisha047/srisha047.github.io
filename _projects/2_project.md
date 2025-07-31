@@ -4,7 +4,7 @@ title: Black Soldier Fly for Waste-to-Feed Innovation
 description: Promoting circular economy through organic waste valorization using Black Soldier Fly (BSF)
 img: assets/img/bsf_cover.jpg
 importance: 2
-category: research
+category: work
 giscus_comments: true
 ---
 

@@ -4,7 +4,7 @@ title: Fall Armyworm Management Research
 description: Published study on sustainable strategies to combat Fall Armyworm in Nepal
 img: assets/img/fall-armyworm.jpg
 importance: 1
-category: research
+category: work
 related_publications: true
 ---
 
