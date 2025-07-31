@@ -72,14 +72,14 @@ ninja.data = [{
           description: "Promoting circular economy through organic waste valorization using Black Soldier Fly (BSF)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-botanical-oils-for-pulse-beetle-management",
+          title: 'Botanical Oils for Pulse Beetle Management',
+          description: "Evaluating plant-based oils as eco-friendly alternatives to synthetic pesticides for managing Callosobruchus chinensis in stored pulses.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-managing-helicoverpa-armigera-in-tomatoes",
+          title: 'Managing Helicoverpa armigera in Tomatoes',
+          description: "Integrated approaches using trap crops and botanicals to control fruit borer infestation in tomato crops.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
