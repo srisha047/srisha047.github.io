@@ -9,8 +9,6 @@ display_categories: [work]
 horizontal: false
 ---
 
-## Publications
-
 ### 🧪 Journal Articles
 
 **Fall armyworm: Menace to Nepalese farming and the integrated management approaches**  
