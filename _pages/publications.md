@@ -9,9 +9,6 @@ display_categories: [work]
 horizontal: false
 ---
 
-
-## Publications
-
 ### Fall armyworm: Menace to Nepalese farming and the integrated management approaches
 
 **Srisha Bista**, Manisha Kumari Thapa, and P. Saugat Khanal  
