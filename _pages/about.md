@@ -12,7 +12,7 @@ profile:
    <p>Lalitpur, Nepal</p>
     <p><a href="mailto:srisha047@gmail.com">srisha047@gmail.com</a></p>
     <p><a href="https://www.linkedin.com/in/srisha-bista-2568a9194" target="_blank">LinkedIn</a></p>
-selected_papers: true 
+selected_papers: false
 social: true 
 
 announcements:
