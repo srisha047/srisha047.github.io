@@ -62,9 +62,9 @@ ninja.data = [{
     },{id: "news-started-job-as-s-senior-project-manager-at-saaho-nepal-sparkles-smile",
           title: 'Started Job as s Senior Project Manager at SAAHO NEPAL!!! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-fall-armyworm-management-research",
+          title: 'Fall Armyworm Management Research',
+          description: "Published study on sustainable strategies to combat Fall Armyworm in Nepal",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
