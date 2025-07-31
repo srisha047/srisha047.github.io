@@ -67,9 +67,9 @@ ninja.data = [{
           description: "Published study on sustainable strategies to combat Fall Armyworm in Nepal",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-black-soldier-fly-for-waste-to-feed-innovation",
+          title: 'Black Soldier Fly for Waste-to-Feed Innovation',
+          description: "Promoting circular economy through organic waste valorization using Black Soldier Fly (BSF)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
