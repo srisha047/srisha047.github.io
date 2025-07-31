@@ -9,14 +9,6 @@ display_categories: [work]
 horizontal: false
 ---
 
----
-layout: page
-title: Publications
-permalink: /publications/
-nav: true
-nav_order: 2
----
-
 ## Publications
 
 ### 🧪 Journal Articles
