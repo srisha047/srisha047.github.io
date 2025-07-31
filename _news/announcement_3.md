@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-01-01
+date: 2021-02-01
 inline: true
 related_posts: false
 ---
 
-Started Job as s Senior Project Manager at SAAHO NEPAL!!! :sparkles: :smile:
+tarted internship at **Prime Minister Agriculture Modernization Project (PMAMP)**! 🌱 
