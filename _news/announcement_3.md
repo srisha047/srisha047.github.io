@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-tarted internship at **Prime Minister Agriculture Modernization Project (PMAMP)**! 🌱 
+Started internship at **Prime Minister Agriculture Modernization Project (PMAMP)**! 🌱 
