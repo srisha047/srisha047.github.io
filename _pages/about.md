@@ -25,10 +25,14 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Hello! I’m **Srisha Bista**, an entomologist and agricultural researcher dedicated to promoting resilient, sustainable farming systems.
 
-Hello! I’m Srisha Bista, an entomologist and agricultural researcher with a focus on Integrated Pest Management (IPM) and sustainable agriculture. I am passionate about advancing sustainable farming through biological control, IPM strategies, and smart diagnostics to effectively manage pests and diseases.
+My work focuses on **Integrated Pest Management (IPM)**, **biological control**, and **insect-plant ecological interactions**. I am passionate about applying scientific insights to practical challenges faced by farmers—reducing pesticide use, improving crop health, and supporting food security through eco-friendly pest and disease management strategies.
 
-When I’m not engaged in research or fieldwork, I enjoy traveling to explore new cultures.
-Feel free to connect with me on LinkedIn or contact me via email at srisha047@gmail.com.
+Currently, I serve as a **Project Coordinator at SAHAS Nepal**, leading climate-resilient agriculture initiatives. Previously, I worked with iDE Nepal on the USAID IPM project, where I supported the mass production of beneficial insects and implemented field-based biological pest control trials.
 
+📘 My academic training includes an M.S. in Entomology and a B.Sc. in Agriculture from Agriculture and Forestry University, Nepal. My research has contributed to the scientific understanding of pest behavior, including the management of the pulse beetle using natural oils.
 
+Outside of work, I enjoy **traveling**, **hiking**, **dancing**, and learning from diverse cultures and landscapes.
+
+If you'd like to collaborate or learn more, feel free to reach out via [email](mailto:srisha047@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/srisha-bista-2568a9194).

@@ -11,87 +11,88 @@
 - title: Education
   type: time_table
   contents:
-    - title: MS
-      institution: University of Agriculture
-      year: 1905
+    - title: M.S. Entomology
+      institution: Agriculture and Forestry University, Chitwan, Nepal
+      year: Feb 2022 – Nov 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - CGPA: 3.70
+        - Relevant Courses: Integrated Pest Management, Insect Ecology & Physiology
+        - Completed thesis titled “Ovipositional Preference and Management of Pulse Beetle Using Edible Oils in Chitwan, Nepal”.
+    - title: B.Sc. Agriculture Science
+      institution: Agriculture and Forestry University, Chitwan, Nepal
+      year: Dec 2016 – Jan 2021
       description:
-        - Description 1.
-        - Description 2.
+        - CGPA: 3.50
+        - Relevant Courses: Crop Protection, Entomology, Plant Pathology, Agronomy
+        - Completed thesis titled “Assessment of Knowledge, Perception, and Practice of Pesticide Use by Vegetable Growers in Lalitpur, Nepal”.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Project Coordinator
+      institution: SAHAS Nepal
+      year: Mar 2024 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Lead the “Food and Nutrition Security” project with a team of 8 staff.
+        - Conducted trainings on climate-resilient agriculture and water management.
+        - Strengthened community-based organizations for project sustainability.
+        - Coordinated with government agencies, NGOs, and communities.
+        - Conducted field research including participatory variety selection and system of rice intensification.
+        - Published an information sheet on Black Soldier Fly for circular economy.
+
+    - title: Research Assistant
+      institution: International Development Enterprise (iDE) Nepal
+      year: Dec 2022 – Nov 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Mass-produced beneficial insects (Trichogramma sp., Telenomus sp.).
+        - Assessed field efficacy of parasitoids in pest control.
+        - Promoted IPM practices with researchers and farmers.
+        - Reduced pesticide use and improved crop yield through biological control.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Census Supervisor
+      institution: Central Bureau of Statistics, Nepal
+      year: Mar 2022 – May 2022
       description:
+        - Conducted data cleaning and validation for the National Agriculture Census.
+        - Completed a 9-day training on data collection and analysis.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Intern
+      institution: Prime Minister Agriculture Modernization Project (PMAMP)
+      year: Feb 2021 – Jul 2021
+      description:
+        - Conducted soil sampling and pesticide impact studies.
+        - Analyzed crop health and yield data using R, SPSS, and Stata.
 
-- title: Open Source Projects
-  type: time_table
+- title: Publications
+  type: list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - Bista, S., Thapa, M. K., Khanal, S. P. (2020). "Fall Armyworm: Menace to Nepalese Farming and the Integrated Management Approaches." *International Journal of Environment, Agriculture and Biotechnology*, 5(4), 1011–1018. [DOI:10.22161/ijeab.54.21](https://doi.org/10.22161/ijeab.54.21)
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Research grant from USAID Nepal Higher Education Project
+        - Seed funding from Energize Nepal Program and KU Business Incubation Centre
+    - year: 2022
       items:
-        - Max Planck Medal
+        - Full scholarship for Integrated Pest Management (IPM) Farmers Field School (Caritas Nepal)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Insect Ecology & IPM
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Herbivore-natural enemy interactions
+        - Multitrophic interactions
+        - Nature-based and sustainable pest management
+    - title: Postharvest Entomology
       items:
-        - Description 1.
-        - Description 2.
+        - Stored product insect damage
+        - Natural and eco-friendly control methods
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Hiking, Traveling, Dancing
