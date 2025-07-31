@@ -9,13 +9,11 @@ display_categories: [work]
 horizontal: false
 ---
 
-@article{bista2020fall,
-  author    = {Srisha Bista and Manisha Kumari Thapa and Saugat Khanal, P.},
-  title     = {Fall armyworm: Menace to Nepalese farming and the integrated management approaches},
-  journal   = {International Journal of Environment Agriculture and Biotechnology},
-  year      = {2020},
-  volume    = {5},
-  number    = {4},
-  pages     = {1011--1018},
-  doi       = {10.22161/ijeab.54.21}
-}
+
+## Publications
+
+### Fall armyworm: Menace to Nepalese farming and the integrated management approaches
+
+**Srisha Bista**, Manisha Kumari Thapa, and P. Saugat Khanal  
+*International Journal of Environment Agriculture and Biotechnology*, **5**(4), pp. 1011–1018, 2020.  
+[DOI: 10.22161/ijeab.54.21](https://doi.org/10.22161/ijeab.54.21)
