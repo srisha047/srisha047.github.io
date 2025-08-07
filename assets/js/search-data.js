@@ -52,11 +52,11 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-completed-bachelor-of-science-in-agriculture-from-agriculture-and-forestry-university-rampur-nepal",
-          title: 'Completed Bachelor of Science in Agriculture from Agriculture and Forestry University, Rampur, Nepal!...',
-          description: "",
-          section: "News",},{id: "news-published-my-first-research-article-fall-armyworm-menace-to-nepalese-farming-and-the-integrated-management-approaches",
+    },{id: "news-published-my-first-research-article-fall-armyworm-menace-to-nepalese-farming-and-the-integrated-management-approaches",
           title: 'Published my first research article! “Fall armyworm: Menace to Nepalese farming and the...',
+          description: "",
+          section: "News",},{id: "news-completed-bachelor-of-science-in-agriculture-from-agriculture-and-forestry-university-rampur-nepal",
+          title: 'Completed Bachelor of Science in Agriculture from Agriculture and Forestry University, Rampur, Nepal!...',
           description: "",
           section: "News",},{id: "news-started-internship-at-prime-minister-agriculture-modernization-project-pmamp",
           title: 'Started internship at Prime Minister Agriculture Modernization Project (PMAMP)! 🌱',
