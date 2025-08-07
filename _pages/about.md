@@ -27,11 +27,11 @@ latest_posts:
 ---
 Hello! I’m **Srisha Bista**, an entomologist and agricultural researcher dedicated to promoting resilient, sustainable farming systems.
 
-My work focuses on **Integrated Pest Management (IPM)**, **biological control**, and **insect-plant ecological interactions**. I am passionate about applying scientific insights to practical challenges faced by farmers—reducing pesticide use, improving crop health, and supporting food security through eco-friendly pest and disease management strategies.
+My work focuses on **Sustainable agriculture and Nature based solution**, **Integrated Pest Management (IPM)**, **Insect ecology**, and **insect-plant trophic interactions**. I am passionate about applying scientific insights to practical challenges faced by farmers, improving crop health, and promoting food security through eco-friendly pest and disease management strategies.
 
-Currently, I serve as a **Project Coordinator at SAHAS Nepal**, leading climate-resilient agriculture initiatives. Previously, I worked with iDE Nepal on the USAID IPM project, where I supported the mass production of beneficial insects and implemented field-based biological pest control trials.
+Currently, I serve as a **Project Coordinator at SAHAS Nepal**, leading climate-resilient agriculture initiatives. Previously, I worked with iDE Nepal on the USAID IPM project, where I supported the mass production of beneficial insects and implemented field-based biological pest control trials focusing on integrated pest management.
 
-📘 My academic training includes an M.S. in Entomology and a B.Sc. in Agriculture from Agriculture and Forestry University, Nepal. My research has contributed to the scientific understanding of pest behavior, including the management of the pulse beetle using natural oils.
+📘 My academic training includes an M.S. in Entomology and a B.Sc. in Agriculture from Agriculture and Forestry University, Nepal. My research has contributed to the scientific understanding of pest behavior, including the management of the pulse beetle using natural oils. I have experience in field-based and lab-based research.
 
 Outside of work, I enjoy **traveling**, **hiking**, **dancing**, and learning from diverse cultures and landscapes.
 
