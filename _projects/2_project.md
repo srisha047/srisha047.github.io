@@ -30,16 +30,12 @@ With seed funding support from the **Energize Nepal Program** and **Kathmandu Un
     {% include figure.liquid path="assets/img/bsf_larvae.jpg" title="BSF Larvae Cultivation" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/bsf_waste.jpg" title="Organic Waste Input" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/bsf_output.jpg" title="Dried Larvae Feed Product" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
 <div class="caption">
   Left: BSF larvae at harvesting stage.  
-  Middle: Waste input — kitchen and agricultural residues.  
   Right: Dried BSF larvae product for feed application.
 </div>
 
