@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Entomologist | Agricultural Researcher | IPM </a>. Nepal. srisha047@gmail.com
+subtitle: <a href='#'>Agricultural Researcher </a>. Nepal. srisha047@gmail.com
 
 profile:
   align: right
