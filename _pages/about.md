@@ -27,7 +27,7 @@ latest_posts:
 ---
 Hello! I’m **Srisha Bista**, an entomologist and agricultural researcher dedicated to promoting resilient, sustainable farming systems.
 
-My work focuses on **Sustainable agriculture and Nature based solution**, **Integrated Pest Management (IPM)**, **Insect ecology**, and **insect-plant trophic interactions**. I am passionate about applying scientific insights to practical challenges faced by farmers, improving crop health, and promoting food security through eco-friendly pest and disease management strategies.
+My work focuses on **Insect ecology**, **Integrated Pest Management (IPM)**, and **insect-plant trophic interactions**. I am passionate about insect ecology, understanding insect behavior, interactions, and their roles in agroecosystem and applying scientific insights to improving crop health, and promoting food security through eco-friendly pest and disease management strategies.
 
 Currently, I serve as a **Project Coordinator at SAHAS Nepal**, leading climate-resilient agriculture initiatives. Previously, I worked with iDE Nepal on the USAID IPM project, where I supported the mass production of beneficial insects and implemented field-based biological pest control trials focusing on integrated pest management.
 
